@@ -21,8 +21,8 @@ function createForm<TParentData, TFormValidator>(opts?): FormApi<TParentData, TF
 
 ## Returns
 
-`FormApi`\<`TParentData`, `TFormValidator`\> & `SolidFormApi`\<`TParentData`, `TFormValidator`\>
+`FormApi`\<`TParentData`, `TFormValidator`\> & [`SolidFormApi`](../interfaces/solidformapi.md)\<`TParentData`, `TFormValidator`\>
 
 ## Defined in
 
-[createForm.tsx:29](https://github.com/TanStack/form/blob/782e82ea1fb36627b62d0f588484b4a9c3249fed/packages/solid-form/src/createForm.tsx#L29)
+[createForm.tsx:26](https://github.com/TanStack/form/blob/main/packages/solid-form/src/createForm.tsx#L26)
